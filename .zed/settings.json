@@ -1,0 +1,8 @@
+{
+  "format_on_save": "on",
+  "autoclose_quotes": true,
+  "match_brackets": true,
+  "tab_size": 2,
+  "ensure_final_newline_on_save": true,
+  "show_whitespaces": "boundary"
+}
